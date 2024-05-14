@@ -17,7 +17,7 @@
 
 ## Notas Adicionales
 
-Este código define una clase `Inventario` que permite agregar, eliminar y mostrar productos. La clase `Main` contiene un método estático `run_tests` que ejecuta un conjunto de pruebas básicas.
+Este código define una clase `Inventario` que permite agregar, eliminar y mostrar productos. La clase `Main` contiene un método estático `Pruebas` que ejecuta un conjunto de pruebas básicas.
 
 # Documentación-Almacenes-Only
 
