@@ -10,10 +10,10 @@
 
 2. **Ejecutar el Script**:
    - Abre una terminal o línea de comandos.
-   - Navega hasta el directorio donde guardaste el archivo `Main.py`.
+   - Navega hasta el directorio donde guardaste el archivo `Main.py` en la carpeta models.
    - Ejecuta el script de Python con el comando
-     En Windows:`python main.py`
-     En Linux/Mac:`python3 main.py`
+     En Windows:`python Main.py`
+     En Linux/Mac:`python3 Main.py`
 
 ## Notas Adicionales
 
