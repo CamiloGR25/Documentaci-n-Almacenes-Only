@@ -1,3 +1,24 @@
+# Ejecución del Código de Inventario
+
+## Requisitos
+
+- Python 3.x instalado en tu sistema.
+
+## Pasos para Ejecutar el Código
+
+1. **Instalar Python**: Verifica si Python está instalado ejecutando `python --version` o `python3 --version` en tu terminal o línea de comandos.
+
+2. **Ejecutar el Script**:
+   - Abre una terminal o línea de comandos.
+   - Navega hasta el directorio donde guardaste el archivo `Main.py` en la carpeta models.
+   - Ejecuta el script de Python con el comando
+     En Windows:`python Main.py`
+     En Linux/Mac:`python3 Main.py`
+
+## Notas Adicionales
+
+Este código define una clase `Inventario` que permite agregar, eliminar y mostrar productos. La clase `Main` contiene un método estático `Pruebas` que ejecuta un conjunto de pruebas básicas.
+
 # Documentación-Almacenes-Only
 
 La empresa "Almacenes Only" se dedica a la venta de una amplia gama de productos dirigidos al público en general. Sin embargo, enfrenta desafíos operativos que están afectando su eficiencia y competitividad en el actual panorama empresarial. La dependencia exclusiva de procesos manuales en áreas críticas como ventas, facturación, digitación y gestión de inventario ha resaltado diversas problemáticas que requieren ser abordadas de manera optima. Para impulsar el crecimiento y la optimización de la empresa, la implementación de un software especializado se presenta como una solución clave. Este software moderno y adaptado a las necesidades específicas de "Almacenes Only" permitirá automatizar procesos, mejorar la gestión de inventario, optimizar la facturación y brindar una experiencia de compra más eficiente para los clientes. De esta manera, la empresa podrá aprovechar al máximo las tecnologías disponibles para aumentar la eficiencia y la calidad del servicio ofrecido.

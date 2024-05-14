@@ -1,5 +1,5 @@
-from models.Inventario import *
-from models.Producto import *
+from Inventario import Inventario
+from Producto import Producto
 
 class Main:
     @staticmethod

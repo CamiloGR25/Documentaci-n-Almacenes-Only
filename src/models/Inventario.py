@@ -1,3 +1,5 @@
+from Producto import Producto
+
 class Inventario:
     def __init__(self):
         self.productos = []
@@ -14,4 +16,3 @@ class Inventario:
     def mostrar_inventario(self):
         for producto in self.productos:
             print(f"Codigo: {producto.codigo}, Nombre: {producto.nombre}, Descripcion: {producto.descripcion}, Cantidad: {producto.cantidad}, Costo: {producto.costo}")
-
